@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vinedsel/testrepo/issues"
   },
-  "homepage": "https://github.com/vinedsel/testrepo#readme"
+  "homepage": "https://github.com/vinedsel/testrepo#readme",
+  "dependencies": {
+    "npm": "^6.9.0"
+  }
 }
